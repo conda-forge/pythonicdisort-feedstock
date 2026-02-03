@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pythonicdisort/pythonicdisort-{{ version }}.tar.gz
-  sha256: 75c1b8fe7d3ed1c75c1ac37039850a75723a9dc5ad5cff3cad7392a2afdbbff2
+  sha256: 019f7a3f0bfe1a90a0dbf447d93df76d64e88a1c910906cd539542b9c840f2ae
 
 build:
   noarch: python
