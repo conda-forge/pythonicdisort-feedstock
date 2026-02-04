@@ -1,4 +1,4 @@
-{% set version = "1.5" %}
+{% set version = "1.6" %}
 
 package:
   name: pythonicdisort
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pythonicdisort/pythonicdisort-{{ version }}.tar.gz
-  sha256: 019f7a3f0bfe1a90a0dbf447d93df76d64e88a1c910906cd539542b9c840f2ae
+  sha256: bfa6e1caea7d807c7ef4b5f1551e474d81bfd0c4ba1e7d772c8f408a9b97f114
 
 build:
   noarch: python
