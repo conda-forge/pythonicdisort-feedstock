@@ -2,7 +2,7 @@
 
 package:
   name: pythonicdisort
-  version: {{ version }}
+  version: "{{ version }}"
 
 source:
   url: https://pypi.org/packages/source/p/pythonicdisort/pythonicdisort-{{ version }}.tar.gz
