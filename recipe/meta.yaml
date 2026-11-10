@@ -1,12 +1,12 @@
-{% set version = "1.8" %}
+{% set version = "1.9" %}
 
 package:
   name: pythonicdisort
   version: "{{ version }}"
 
 source:
-  url: https://pypi.org/packages/source/p/pythonicdisort/pythonicdisort-{{ version }}.tar.gz
-  sha256: 560ba1313a773cff35ae9a3a677f215cbd0f996144f99a3edd70f266f4a3546d
+  url: https://files.pythonhosted.org/packages/source/p/pythonicdisort/pythonicdisort-{{ version }}.tar.gz
+  sha256: c12c1f8e0032f57dd227ec3ab120eec336694537acfbbe2df0d60f0c09a470a2
 
 build:
   noarch: python
